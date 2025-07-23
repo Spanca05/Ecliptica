@@ -3,9 +3,6 @@
 In Ecliptica, the player plays as an astronaut navigating an arena. The goal is to collect coins, stars, and power-ups such as a Magnet to attract nearby coins, a Coin Multiplier for extra coins and a Shield to protect the player from dangerous obstacles. The astronaut moves in one direction until he finds a wall, this allows the player to jump quickly across the map in straight lines.
 
 The game introduces two enemy types: Spike Walls that act as instant death zones, ending the game upon contact and Infected Walls that spawn spikes around them when the player passes by. As the player progresses, the arenas grow more difficult, with more obstacles to navigate.
-## Mockups
-
-<img src="docs/mockup_menu.png" width="413"> <img src="docs/mockup_alevel.png" width="413">
 
 ## Player's Functionalities
 
@@ -16,6 +13,12 @@ The game introduces two enemy types: Spike Walls that act as instant death zones
 ### Item Collection
 - The player automatically collects items upon touching them, such as coins, points, stars, and power-ups.
 - Throughout the levels, as the player collects coins and points, these contribute to the player's wallet.
+
+![Gameplay](docs/gif-resize.gif)
+
+## Mockups
+
+<img src="docs/mockup_menu.png" width="320"> <img src="docs/mockup_alevel.png" width="320">
 
 ## Main Game Elements
 
